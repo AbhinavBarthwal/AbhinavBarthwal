@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavbarthwal" alt="abhinavbarthwal" /></a> </p>
 
-- 🔭 I’m currently working on [VUET](https://github.com/AbhinavBarthwal/VEUT)
+- 🔭 I’m currently working on [LUCID](https://github.com/AbhinavBarthwal/LUCID)
 
 - 🌱 I’m currently learning **Docker and backend services**
 

@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Docker and backend services**
 
-- 🤝 I’m looking for help with [Essential space](https://github.com/AbhinavBarthwal/essentials)
-
 - 💬 Ask me about **react and google cloud**
 
 - 📫 How to reach me **Abhinavbarthwal12345@gmail.com**
